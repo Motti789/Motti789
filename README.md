@@ -4,6 +4,11 @@ Dedicated full stack developer with a passion for problem solving and working to
 <br>
 I enjoy analyzing details with a natural desire to learn and grow.
 
+## Projects
+**Healthcare Provider** [Demo](https://youtu.be/3Jy239mGayw) | [Repo](https://github.com/Motti789/healthcare_provider)
+<br>
+Created an App with a Rails backend and React frontend to allow users to add clients with all the relative info, as well as add client session notes. Used the Redux library for managing state.
+
 
 
 
