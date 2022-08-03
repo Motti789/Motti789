@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there! I'm Motti! 👋
+
+Dedicated full stack developer with a passion for problem solving and working together with others. 
+<br>
+I enjoy analyzing details with a natural desire to learn and grow.
+
+
+
+
 
 <!--
 **Motti789/Motti789** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
