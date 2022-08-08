@@ -7,7 +7,7 @@ I enjoy analyzing details with a natural desire to learn and grow.
 ## Projects
 :hospital: **Healthcare Provider** [Demo](https://youtu.be/3Jy239mGayw) | [Repo](https://github.com/Motti789/healthcare_provider)
 </br>
-A app geared to healthcare providers, built with a Rails backend and React frontend to allow users to add clients with all the relative info, as well as add client session notes. Used the Redux library for managing state.
+An app geared to healthcare providers, built with a Rails backend and React frontend to allow users to add clients with all the relative info, as well as add client session notes. Used the Redux library for managing state.
 </br>
 
 :car: **Car Brochure** [Demo](https://www.youtube.com/watch?v=m8pMAlpeWGc) | [Repo](https://github.com/Motti789/car_api)
